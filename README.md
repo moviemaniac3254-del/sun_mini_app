@@ -1,5 +1,5 @@
 # sun_mini_app
-# Hi 👋 I'm YOUR NAME (moviemaniac3254-del)
+# Hi 👋 (moviemaniac3254-del)
 
 [![Website](https://img.shields.io/badge/website-YourSite-blue?style=for-the-badge&logo=google-chrome)](https://your-website.example)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
